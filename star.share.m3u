@@ -1,11 +1,4 @@
-#EXTINF:-1 tvg-id="143" tvg-name="CNBC TV18 Prime" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBCTV18Prime.png" group-title="JioTv+ ENGLISH",CNBC TV18 Prime
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://xocietypro.live/Cursed/keys.php?id=143
-#EXT-X-DRM-ID: 143
-#EXT-X-LICENSE-URL: https://xocietypro.live/Cursed/keys.php?id=143
-https://xocietypro.live/Cursed/mpd.php?id=143
-
+#EXTM3U
 #EXTINF:-1 group-title="IPL (2026)" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" tvg-id="starsports1hd.in" ,STAR SPORTS 1 ENG LOW QUALITY
 http://starshare.one:80/Anthony2/Anthony123/702533
 #EXTINF:-1 group-title="IPL (2026)" tvg-logo="https://i.ibb.co/7x1Jw8dL/Chat-GPT-Image-Mar-29-2026-01-03-02-AM.png" tvg-id="starsports2hd.in" ,STAR SPORTS 2 ENG LOW QUALITY
